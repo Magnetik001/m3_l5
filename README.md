@@ -10,7 +10,6 @@ while True:
     ans = ans.replace(' ','')
     lst.append(ans)
     print('Слово добавлено в список!')
-    
 
 
 def double(words):
